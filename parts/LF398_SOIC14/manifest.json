@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LF398_SOIC14:LF398_SOIC14",
+  "name": "LF398_SOIC14",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LF398_SOIC14.kicad_sym",
+  "description": "Sample And Hold Unity Gain Follower, SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lf398-n.pdf",
+  "keywords": "sample hold buffer unity gain",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LF398_SOIC14/",
+  "part_path": "parts/LF398_SOIC14",
+  "symbol_file": "parts/LF398_SOIC14/LF398_SOIC14.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:55.481Z"
+}

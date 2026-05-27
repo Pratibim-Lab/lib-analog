@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LM331N:LM331N",
+  "name": "LM331N",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LM331N.kicad_sym",
+  "description": "Precision Voltage-to-Frequency Converter, 1 Hz - 100 kHz, 0.9..1.1 kHz/V Gain, PDIP-8",
+  "datasheet": "https://www.ti.com/lit/gpn/lm331",
+  "keywords": "v-to-f v-f",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LM331N/",
+  "part_path": "parts/LM331N",
+  "symbol_file": "parts/LM331N/LM331N.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:59.335Z"
+}

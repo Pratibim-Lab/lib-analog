@@ -1,0 +1,17 @@
+{
+  "id": "Analog/AD5593R:AD5593R",
+  "name": "AD5593R",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/AD5593R.kicad_sym",
+  "description": "8-channel 12bits configurable ADC/DAC/GPIO Internal Reference, I2C interface Integrated temperature sensor,Single Supply, TSSOP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD5593R.pdf",
+  "keywords": "8channel 12bit ADC DAC GPIO I2C Temperature",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/AD5593R/",
+  "part_path": "parts/AD5593R",
+  "symbol_file": "parts/AD5593R/AD5593R.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:48.442Z"
+}

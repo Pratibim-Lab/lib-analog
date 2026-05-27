@@ -1,0 +1,17 @@
+{
+  "id": "Analog/MLX90320xFR:MLX90320xFR",
+  "name": "MLX90320xFR",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/MLX90320xFR.kicad_sym",
+  "description": "Programmable Automotive Sensor Interface (Signal Conditioner), SSOP-14",
+  "datasheet": "https://www.mouser.com/datasheet/2/734/MLX90320-Datasheet-Melexis-953341.pdf",
+  "keywords": "sensor signal conditioning",
+  "footprint": "Package_SO:SSOP-14_5.3x6.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/MLX90320xFR/",
+  "part_path": "parts/MLX90320xFR",
+  "symbol_file": "parts/MLX90320xFR/MLX90320xFR.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:04.366Z"
+}

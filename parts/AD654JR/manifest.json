@@ -1,0 +1,17 @@
+{
+  "id": "Analog/AD654JR:AD654JR",
+  "name": "AD654JR",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/AD654JR.kicad_sym",
+  "description": "Low Cost Monolithic Voltage-to-Frequency Converter, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD654.pdf",
+  "keywords": "v-to-f v-f",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/AD654JR/",
+  "part_path": "parts/AD654JR",
+  "symbol_file": "parts/AD654JR/AD654JR.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:53.520Z"
+}

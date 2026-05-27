@@ -1,0 +1,17 @@
+{
+  "id": "Analog/AD637xRZ:AD637xRZ",
+  "name": "AD637xRZ",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/AD637xRZ.kicad_sym",
+  "description": "High Precision, Wideband RMS-to-DC Converter, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD637.pdf",
+  "keywords": "rms-to-dc",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/AD637xRZ/",
+  "part_path": "parts/AD637xRZ",
+  "symbol_file": "parts/AD637xRZ/AD637xRZ.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:51.655Z"
+}

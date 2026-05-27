@@ -1,0 +1,17 @@
+{
+  "id": "Analog/MPY634KU:MPY634KU",
+  "name": "MPY634KU",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/MPY634KU.kicad_sym",
+  "description": "Wide Bandwidth Precision Analog Multiplier, SOIC-16W",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/mpy634.pdf",
+  "keywords": "analog multiplier",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/MPY634KU/",
+  "part_path": "parts/MPY634KU",
+  "symbol_file": "parts/MPY634KU/MPY634KU.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:06.516Z"
+}

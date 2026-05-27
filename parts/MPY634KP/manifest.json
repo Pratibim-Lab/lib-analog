@@ -1,0 +1,17 @@
+{
+  "id": "Analog/MPY634KP:MPY634KP",
+  "name": "MPY634KP",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/MPY634KP.kicad_sym",
+  "description": "Wide Bandwidth Precision Analog Multiplier, DIP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/mpy634.pdf",
+  "keywords": "analog multiplier",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/MPY634KP/",
+  "part_path": "parts/MPY634KP",
+  "symbol_file": "parts/MPY634KP/MPY634KP.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:05.334Z"
+}

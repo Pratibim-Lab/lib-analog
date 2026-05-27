@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LTC1966:LTC1966",
+  "name": "LTC1966",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LTC1966.kicad_sym",
+  "description": "Precision Micropower True RMS-to-DC Converter, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1966fb.pdf",
+  "keywords": "rms-to-dc converter",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LTC1966/",
+  "part_path": "parts/LTC1966",
+  "symbol_file": "parts/LTC1966/LTC1966.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:00.444Z"
+}

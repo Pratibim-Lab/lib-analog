@@ -1,0 +1,17 @@
+{
+  "id": "Analog/AD630ARZ:AD630ARZ",
+  "name": "AD630ARZ",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/AD630ARZ.kicad_sym",
+  "description": "High precision Balanced Modulator/Demodulator, 2 MHz, SOIC-20W",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ad630.pdf",
+  "keywords": "modulator demodulator",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/AD630ARZ/",
+  "part_path": "parts/AD630ARZ",
+  "symbol_file": "parts/AD630ARZ/AD630ARZ.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:49.635Z"
+}

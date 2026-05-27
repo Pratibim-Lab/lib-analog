@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LF398H:LF398H",
+  "name": "LF398H",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LF398H.kicad_sym",
+  "description": "Sample And Hold Unity Gain Follower, TO-99-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lf398-n.pdf",
+  "keywords": "sample hold buffer unity gain",
+  "footprint": "Package_TO_SOT_THT:TO-99-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LF398H/",
+  "part_path": "parts/LF398H",
+  "symbol_file": "parts/LF398H/LF398H.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:57.451Z"
+}

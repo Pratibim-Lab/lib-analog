@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LTC1967:LTC1967",
+  "name": "LTC1967",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LTC1967.kicad_sym",
+  "description": "Precision Extended Bandwidth True RMS-to-DC Converter, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1967f.pdf",
+  "keywords": "rms-to-dc converter",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LTC1967/",
+  "part_path": "parts/LTC1967",
+  "symbol_file": "parts/LTC1967/LTC1967.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:01.435Z"
+}

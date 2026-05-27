@@ -1,0 +1,17 @@
+{
+  "id": "Analog/PGA112:PGA112",
+  "name": "PGA112",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/PGA112.kicad_sym",
+  "description": "Zero-Drift Programmable Gain Amplifier With Mux, x1/x2/x4/x8/x16/x32/x64/x128 gains, VSSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/sbos424c/sbos424c.pdf",
+  "keywords": "PGA SPI",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/PGA112/",
+  "part_path": "parts/PGA112",
+  "symbol_file": "parts/PGA112/PGA112.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:07.817Z"
+}

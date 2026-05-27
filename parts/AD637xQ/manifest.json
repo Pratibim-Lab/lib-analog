@@ -1,0 +1,17 @@
+{
+  "id": "Analog/AD637xQ:AD637xQ",
+  "name": "AD637xQ",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/AD637xQ.kicad_sym",
+  "description": "High Precision, Wideband RMS-to-DC Converter, DIP-14",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD637.pdf",
+  "keywords": "rms-to-dc",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/AD637xQ/",
+  "part_path": "parts/AD637xQ",
+  "symbol_file": "parts/AD637xQ/AD637xQ.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:50.668Z"
+}

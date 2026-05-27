@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LF398_DIP8:LF398_DIP8",
+  "name": "LF398_DIP8",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LF398_DIP8.kicad_sym",
+  "description": "Sample And Hold Unity Gain Follower, DIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lf398-n.pdf",
+  "keywords": "sample hold buffer unity gain",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LF398_DIP8/",
+  "part_path": "parts/LF398_DIP8",
+  "symbol_file": "parts/LF398_DIP8/LF398_DIP8.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:54.491Z"
+}

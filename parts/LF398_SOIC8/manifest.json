@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LF398_SOIC8:LF398_SOIC8",
+  "name": "LF398_SOIC8",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LF398_SOIC8.kicad_sym",
+  "description": "Sample And Hold Unity Gain Follower, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt0398s8.pdf",
+  "keywords": "sample hold buffer unity gain",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "LF398_DIP8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LF398_SOIC8/",
+  "part_path": "parts/LF398_SOIC8",
+  "symbol_file": "parts/LF398_SOIC8/LF398_SOIC8.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:56.486Z"
+}

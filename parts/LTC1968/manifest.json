@@ -1,0 +1,17 @@
+{
+  "id": "Analog/LTC1968:LTC1968",
+  "name": "LTC1968",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/LTC1968.kicad_sym",
+  "description": "Precision Wide Bandwidth True RMS-to-DC Converter, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1968f.pdf",
+  "keywords": "rms-to-dc converter",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "LTC1967",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/LTC1968/",
+  "part_path": "parts/LTC1968",
+  "symbol_file": "parts/LTC1968/LTC1968.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:36:02.424Z"
+}

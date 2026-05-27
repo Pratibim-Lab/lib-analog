@@ -1,0 +1,17 @@
+{
+  "id": "Analog/AD654JN:AD654JN",
+  "name": "AD654JN",
+  "library": "Analog",
+  "file": "Analog.kicad_symdir/AD654JN.kicad_sym",
+  "description": "Low Cost Monolithic Voltage-to-Frequency Converter, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD654.pdf",
+  "keywords": "v-to-f v-f",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-analog@master/parts/AD654JN/",
+  "part_path": "parts/AD654JN",
+  "symbol_file": "parts/AD654JN/AD654JN.kicad_sym",
+  "source_library": "Analog.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T05:35:52.584Z"
+}
